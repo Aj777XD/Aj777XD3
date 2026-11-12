@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=137&section=footer&reversal=true&text=9&fontSize=72&fontColor=FFFFFF&fontAlign=49&fontAlignY=50&stroke=FFFF&strokeWidth=3&descSize=65&descAlign=55&descAlignY=61&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=126&section=header&reversal=true&text=777&fontSize=73&fontColor=ffff&fontAlign=51&fontAlignY=57&rotate=-7&stroke=-&strokeWidth=0&animation=blink&descSize=86&descAlign=94&descAlignY=107&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -77,14 +77,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=137&section=footer&reversal=true&text=9&fontSize=72&fontColor=FFFFFF&fontAlign=49&fontAlignY=50&stroke=FFFF&strokeWidth=3&descSize=65&descAlign=55&descAlignY=61&color=gradient"  />
 </div>
 
 ###
