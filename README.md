@@ -158,5 +158,4 @@ $\text{\color{#FFFFFF}i⠀may⠀not⠀know!}$
         </div>
       </div>
 
-    </div>
-    <img src="https://camo.githubusercontent.com/2cc4b3429bb6c37db0e8fb6565337eff1b6d40497803dc050b3436eff4d5e184/68747470733a2f2f66696c65732e636174626f782e6d6f652f66796f7a36702e706e67" width="365" data-canonical-src="https://files.catbox.moe/fyoz6p.png" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/2cc4b3429bb6c37db0e8fb6565337eff1b6d40497803dc050b3436eff4d5e184/68747470733a2f2f66696c65732e636174626f782e6d6f652f66796f7a36702e706e67" width="365" data-canonical-src="https://files.catbox.moe/fyoz6p.png" style="max-width: 100%;">
