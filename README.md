@@ -1,3 +1,4 @@
+/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[5]/a/img
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hauntedarchives&style=plastic&color=86c5f5&label=stars">
 </div>
