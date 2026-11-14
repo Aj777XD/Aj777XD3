@@ -1,4 +1,4 @@
-/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[5]/a/img
+<img src="https://camo.githubusercontent.com/fe11f33894bf5d7ddb169b4dbec3c8b712fb89608bfd686b1fba8d02514c1adb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d556e696672616b7475724d6167756e7469612673697a653d33372673706565643d3133302670617573653d3430303026636f6c6f723d4646464646462663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d41726f756e642b70656f706c652b776f7274682b696e74657272757074696e672b6d792b69736f6c6174696f6e2b666f722e2e2e" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&amp;size=37&amp;speed=130&amp;pause=4000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Around+people+worth+interrupting+my+isolation+for..." style="max-width: 100%;">
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hauntedarchives&style=plastic&color=86c5f5&label=stars">
 </div>
